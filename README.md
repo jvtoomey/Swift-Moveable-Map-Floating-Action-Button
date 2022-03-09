@@ -9,6 +9,8 @@ I'm trying to keep with Don Norman's philosophy here, so enough is visible that 
 
 I find the swiping very smooth and works great. I was worried that I'd have constant accidental taps on the buttons when I was trying to swipe, but it doesn't happen at all. The iPhone is designed very well in this regard, so it consistently (and correctly) distinguishes between a tap on a button and a swipe.
 
+I use UISwipeGestureRecognizers to detect the swipes, and a whole lot of anchors. My next goal is to attempt this type of layout using SwiftUI!
+
 Here's how it looks in action:
 
 
