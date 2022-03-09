@@ -3,7 +3,7 @@ I always found the Google Maps and Apple Maps iOS apps so cluttered. It also bot
 
 The other problem is the cluttered appearance of so many buttons up the side panel.
 
-I came up with this solution for my app ShareTheres. You can swipe the buttons left and right, plus swipe them up and down. They hide behind each other, with just a little bit peeking out so you can see that it's there. 
+I came up with this solution for my app [ShareTheres](https://apps.apple.com/us/app/share-theres/id1438481654?ls=1). You can swipe the buttons left and right, plus swipe them up and down. They hide behind each other, with just a little bit peeking out so you can see that it's there. 
 
 I'm trying to keep with Don Norman's philosophy here, so enough is visible that you know it's there, as opposed to completely hiding the buttons, which requires you to know they're hiding there.
 
