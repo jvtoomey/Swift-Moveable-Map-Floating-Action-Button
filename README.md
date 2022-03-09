@@ -1,7 +1,7 @@
 # Swift-Moveable-Map-Floating-Action-Button
-I always found the Google Map and Apple Map iOS maps so cluttered. It also bothered me that you cannot move the floating action button to the left side. Being left-handed, I find it more reachable with my thumb there.
+I always found the Google Maps and Apple Maps iOS apps so cluttered. It also bothered me that you cannot move the floating action button to the left side. Being left-handed, I find it more reachable with my thumb there.
 
-The other problem is the clutter of so many buttons up the side panel.
+The other problem is the cluttered appearance of so many buttons up the side panel.
 
 I came up with this solution for my app ShareTheres. You can swipe the buttons left and right, plus swipe them up and down. They hide behind each other, with just a little bit peeking out so you can see that it's there. 
 
